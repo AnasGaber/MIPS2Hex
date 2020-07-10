@@ -1,0 +1,4 @@
+loop:sub,$s3,$s2,$t0
+j loop
+add,$t0,$t2,$s1
+addi,$s0,$s2,-17
